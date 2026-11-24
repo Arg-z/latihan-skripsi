@@ -12,7 +12,7 @@ AAA----Puyuh adalah salah satu jenis ternak unggas yang telah mengalami domestik
 * **Genus:** *Coturnix*
 * **Spesies:** *Coturnix coturnix japonica*
 
-Puyuh merupakan unggas yang memiliki siklus hidup relatif pendek dengan laju metabolisme tinggi, dan pertumbuhan serta perkembangan yang sangat cepat (Radhitya, 2015). Burung puyuh merupakan salah satu komoditi unggas dari genus *Coturnix* yang dapat dimanfaatkan sebagai penghasil telur dan daging (Setyawan *et al.*, 2012).
+(asdasdasdasdasdas)Puyuh merupakan unggas yang memiliki siklus hidup relatif pendek dengan laju metabolisme tinggi, dan pertumbuhan serta perkembangan yang sangat cepat (Radhitya, 2015). Burung puyuh merupakan salah satu komoditi unggas dari genus *Coturnix* yang dapat dimanfaatkan sebagai penghasil telur dan daging (Setyawan *et al.*, 2012).
 
 Pada saat menetas puyuh sudah ditutupi oleh bulu, berbeda halnya dengan tubuh burung merpati, di mana pada saat menetas belum memiliki bulu atau jika tumbuh bulu, jumlahnya sangat sedikit atau jarang (Sari *et al.*, 2013). Puyuh memiliki saluran pencernaan yang bisa menyesuaikan diri terhadap kondisi lingkungan. Usus halus dan gizzard pada puyuh memberikan respon yang cukup fleksibel terhadap ransum (Starck dan Rahmaan, 2003). Kemiripan puyuh dengan beberapa unggas lain untuk beberapa parameter genetik membuat puyuh sering digunakan untuk hewan percobaan dalam penelitian (Maeda *et al.*, 1997).
 
