@@ -1,0 +1,27 @@
+# BAB I. PENDAHULUAN
+
+## 1.1 Latar Belakang
+
+Puyuh (*Coturnix-coturnix japonica*) merupakan jenis unggas ukuran tubuh yang kecil. Ternak puyuh memiliki prospek yang cukup tinggi untuk dikembangbiakkan. Kemampuan berkembang biak dan tumbuh puyuh cukup cepat, dalam waktu kurang lebih 42 hari puyuh telah mampu berproduksi dan dalam waktu satu tahun dapat menghasilkan tiga sampai empat keturunan. Telur puyuh juga merupakan salah satu sumber protein hewani yang tinggi dibanding telur ayam (Sudrajat *et al.*, 2014). Satu butir telur puyuh mengandung nilai gizi yang cukup tinggi yaitu mengandung 13,1% protein dan lemak 11,1%, sedangkan telur ayam ras hanya mengandung 11,2% protein dan 12,7% lemak (Dewansyah, 2010). Dalam satu tahun puyuh dapat menghasilkan 250–300 butir telur (Ali *et al.*, 2019) dengan konsumsi pakan sekitar 20 gr per ekor per hari sehingga hal ini sangat menguntungkan peternak karena dapat menghemat biaya pakan (Listiyowati dan Roospitasari, 2004).
+
+Menurut Nasution (2007) faktor terpenting dalam pemeliharaan puyuh adalah pakan. Pakan merupakan salah satu faktor utama yang mempengaruhi keberhasilan usaha peternakan yaitu sebesar 60–70% (Sudrajat, 2000). Pakan merupakan bahan yang dicerna atau dimakan oleh hewan ternak yang mengandung nutrisi penting dengan tujuan untuk pertumbuhan, reproduksi. Menggunakan bahan pakan murah dan kandungan nutrisi yang dapat memenuhi kebutuhan ternak akan sangat menguntungkan. Pakan yang baik adalah pakan yang mengandung semua nutrien yang diperlukan pada ternak, dengan jumlah yang seimbang. Nutrient yang dibutuhkan yaitu protein, karbohidrat, mineral, vitamin, lemak dan air. Pada fase petelur, puyuh membutuhkan lebih banyak kalsium dan fosfor untuk pembentukan kerabang telur, salah satu bahan pakan yang dapat dimanfaatkan sebagai sumber kalsium adalah tepung cangkang kerang darah (*Anadara granosa*).
+
+Tepung cangkang kerang darah (*Anadara granosa*). Kerang darah merupakan salah satu jenis kerang yang berpotensi dan bernilai ekonomis untuk dikembangkan sebagai sumber mineral dan protein untuk memenuhi kebutuhan pangan masyarakat Indonesia. Kerang darah banyak ditemukan pada substrat yang berlumpur di Muara Sungai dengan topografi pantai yang landai sampai kedalaman 20 m. Kerang darah bersifat infauna yaitu hidup dengan cara membenamkan diri di bawah permukaan lumpur di perairan dangkal. Cangkang kerang juga digunakan sebagai unsur pencampuran ransum ternak. Tepung cangkang kerang darah memiliki potensi mineral yang sangat tinggi, yaitu kalsium sebesar 45,74% dan fosfor sebesar 0,000049% (Mahari, 2017). Cangkang kerang ini sama halnya dengan tepung tulang juga sangat potensial dalam proses pertumbuhan dan berproduksi (Raillah *et al.*, 2021). Kalsium berperan dalam pembentukan kerabang telur (Suprijatna *et al.*, 2005). Menurut Suprapto *et al.* (2012) menyatakan burung puyuh jika kekurangan Ca dan P dapat mengganggu proses pertumbuhan tulang, produksi telur dan menurunnya tebal kerabang telur. Penelitian sebelumnya tentang penambahan tepung kerang darah yaitu Rusnadi *et al.* (2020) menyatakan bahwa dengan pemberian tepung cangkang kerang dalam ransum dengan penambahan sebesar 2% dan 3% tepung cangkang kerang sebagai sumber kalsium dapat meningkatkan bobot telur tetapi tidak berpengaruh terhadap produksi telur harian pada ayam Isa Brown umur 95 minggu.
+
+Berdasarkan uraian di atas, perlu dilakukan penelitian mengenai pengaruh pemberian tepung cangkang kerang darah (*Anadara granosa*) dalam ransum terhadap kualitas eksterior telur puyuh (*Coturnix coturnix japonica*).
+
+## 1.2 Rumusan Masalah
+
+Kualitas telur yang dihasilkan unggas seperti puyuh selain dipengaruhi oleh protein, kalsium dan fosfor. Sumber kalsium dan fosfor terdapat pada tepung tulang dan tepung ikan. Tingginya harga bahan baku tersebut menjadi kendala pada biaya produksi dalam pembuatan pakan. Salah satu bahan yang dapat dijadikan sumber mineral yaitu cangkang kerang darah. Pengolahan limbah cangkang kerang darah menjadi tepung cangkang kerang darah merupakan salah satu alternatif untuk memenuhi kebutuhan kalsium. Tepung cangkang kerang darah memiliki potensi mineral yang cukup tinggi sebanyak 30–40% kalsium dan fosfor sebesar 1%. Pengolahan limbah cangkang kerang darah menjadi tepung cangkang kerang darah dapat menjadi alternatif yang efektif dan ekonomis dalam memenuhi kebutuhan kalsium dan fosfor untuk produksi telur puyuh. Dari uraian di atas maka akan dilakukan penelitian berapa level pemberian tepung cangkang kerang darah pada ransum terhadap kualitas eksterior telur puyuh?
+
+## 1.3 Hipotesis
+
+Pemberian tepung cangkang kerang darah (*Anadara granosa*) sampai taraf 4% dalam ransum dapat memperbaiki kualitas eksterior telur puyuh (*Coturnix coturnix japonica*), yang ditunjukkan oleh bobot telur, indeks telur, serta berat dan tebal kerabang yang lebih baik.
+
+## 1.4 Tujuan Penelitian
+
+Tujuan dari penelitian ini adalah untuk mengetahui pengaruh pemberian tepung cangkang kerang darah (*Anadara granosa*) dalam ransum terhadap kualitas eksterior telur puyuh.
+
+## 1.5 Manfaat
+
+Hasil penelitian ini diharapkan menjadi acuan bagi peternak dalam memanfaatkan limbah cangkang kerang darah sebagai bahan pakan alternatif sumber kalsium yang murah untuk memperbaiki kualitas eksterior telur puyuh.
