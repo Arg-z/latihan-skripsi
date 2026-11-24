@@ -2,7 +2,7 @@
 
 ## 2.1 Puyuh (*Coturnix-coturnix japonica*)
 
-Puyuh adalah salah satu jenis ternak unggas yang telah mengalami domestikasi. Terdapat beberapa jenis puyuh di antaranya puyuh jepang (*Coturnix coturnix japonica*). Puyuh jenis inilah yang paling banyak diternakkan masyarakat sebagai penghasil telur maupun daging (Subekti dan Hastuti, 2013). Klasifikasi puyuh secara ilmiah yaitu sebagai berikut:
+AAA----Puyuh adalah salah satu jenis ternak unggas yang telah mengalami domestikasi. Terdapat beberapa jenis puyuh di antaranya puyuh jepang (*Coturnix coturnix japonica*). Puyuh jenis inilah yang paling banyak diternakkan masyarakat sebagai penghasil telur maupun daging (Subekti dan Hastuti, 2013). Klasifikasi puyuh secara ilmiah yaitu sebagai berikut:
 
 * **Kingdom:** Animalia
 * **Filum:** Chordata
@@ -17,6 +17,7 @@ Puyuh merupakan unggas yang memiliki siklus hidup relatif pendek dengan laju met
 Pada saat menetas puyuh sudah ditutupi oleh bulu, berbeda halnya dengan tubuh burung merpati, di mana pada saat menetas belum memiliki bulu atau jika tumbuh bulu, jumlahnya sangat sedikit atau jarang (Sari *et al.*, 2013). Puyuh memiliki saluran pencernaan yang bisa menyesuaikan diri terhadap kondisi lingkungan. Usus halus dan gizzard pada puyuh memberikan respon yang cukup fleksibel terhadap ransum (Starck dan Rahmaan, 2003). Kemiripan puyuh dengan beberapa unggas lain untuk beberapa parameter genetik membuat puyuh sering digunakan untuk hewan percobaan dalam penelitian (Maeda *et al.*, 1997).
 
 Menurut Nugroho dan Mayun (1986) ciri-ciri karakteristik dari puyuh (*Coturnix coturnix japonica*) adalah:
+
 * (a) bentuk tubuhnya lebih besar dari burung puyuh yang lain, badan bulat, ekornya pendek, paruh pendek dan kuat, tiga jari kaki menghadap ke muka dan satu jari kaki ke arah belakang,
 * (b) pertumbuhan bulu puyuh akan lengkap setelah berumur dua sampai tiga minggu,
 * (c) jenis kelamin puyuh dapat dibedakan berdasarkan warna bulu, suara dan berat badan,
@@ -44,26 +45,26 @@ Adapun kebutuhan zat pada ransum puyuh yang dapat dilihat pada **Tabel 1** dan k
 
 **Tabel 1. Kebutuhan Zat-Zat Nutrient dalam Ransum Puyuh Fase Layer**
 
-| Zat Makanan | Kebutuhan Zat Makanan |
-| :--- | :--- |
-| Protein kasar (%) | 20 (Minimum) |
-| Lemak Kasar (%) | 7,00 (Maksimum) |
-| Serat Kasar (%) | 7,00 (Maksimum) |
-| Kalsium (%) | 2,5–3,5 |
-| Fosfor (%) | 0,60–1 |
-| Energi metabolisme (kkal/kg) min | 2800 |
+|Zat Makanan|Kebutuhan Zat Makanan|
+|-|-|
+|Protein kasar (%)|20 (Minimum)|
+|Lemak Kasar (%)|7,00 (Maksimum)|
+|Serat Kasar (%)|7,00 (Maksimum)|
+|Kalsium (%)|2,5–3,5|
+|Fosfor (%)|0,60–1|
+|Energi metabolisme (kkal/kg) min|2800|
 
 *Sumber: SNI (2006)*
 
 **Tabel 2. Kebutuhan Jumlah Pakan**
 
-| Umur Puyuh | Kebutuhan Jumlah Pakan (g/hari) |
-| :--- | :--- |
-| 0–10 hari | 2–3 |
-| 11–20 hari | 4–5 |
-| 21–30 hari | 8–10 |
-| 31–40 hari | 12–15 |
-| 41 hari sampai afkir | 17–20 |
+|Umur Puyuh|Kebutuhan Jumlah Pakan (g/hari)|
+|-|-|
+|0–10 hari|2–3|
+|11–20 hari|4–5|
+|21–30 hari|8–10|
+|31–40 hari|12–15|
+|41 hari sampai afkir|17–20|
 
 *Sumber: Abidin (2002)*
 
@@ -81,6 +82,7 @@ Kalsium dari tulang meduler bersifat terbatas, oleh karena itu bila suhu tinggi 
 
 Pembentukan kulit telur memerlukan pemasukan ion-ion kalsium yang cukup dalam uterus dan adanya ion-ion karbonat dalam uterus dalam jumlah cukup diperlukan untuk membentuk kalsium karbonat dari kulit telur. Kulit telur itu hampir seluruhnya terdiri dari kalsium karbonat yang disimpan pada matriks organik.
 
-Kalsium karbonat adalah mineral inorganik yang dikenal tersedia dengan harga murah secara komersial. Sifat fisis kalsium karbonat seperti morfologi, fase, ukuran dan distribusi ukuran harus dimodifikasi menurut bidang pengaplikasiannya. Bentuk morfologi dan fase kalsium karbonat ($CaCO_3$) terkait dengan kondisi sintesis seperti konsentrasi reaktan, suhu, waktu *aging* dan zat aditif alam (Kirboga dan Oner, 2013). Kalsit ($CaCO_3$) merupakan fase yang paling stabil dan banyak digunakan dalam industri cat, kertas, *magnetic recording*, industri tekstil, detergen, plastik, dan kosmetik (Lailiyah dkk., 2012).
+Kalsium karbonat adalah mineral inorganik yang dikenal tersedia dengan harga murah secara komersial. Sifat fisis kalsium karbonat seperti morfologi, fase, ukuran dan distribusi ukuran harus dimodifikasi menurut bidang pengaplikasiannya. Bentuk morfologi dan fase kalsium karbonat ($CaCO\_3$) terkait dengan kondisi sintesis seperti konsentrasi reaktan, suhu, waktu *aging* dan zat aditif alam (Kirboga dan Oner, 2013). Kalsit ($CaCO\_3$) merupakan fase yang paling stabil dan banyak digunakan dalam industri cat, kertas, *magnetic recording*, industri tekstil, detergen, plastik, dan kosmetik (Lailiyah dkk., 2012).
 
-Kalsium karbonat ($CaCO_3$) dideposisikan selama 17–20 jam di dalam uterus. Hanya 3% dari cangkang berupa bahan organik dan sisanya yaitu 97% berupa kalsit atau $CaCO_3$ (Lavelin dkk., 2000). Pembentukan cangkang telur memerlukan pasokan ion-ion kalsium yang cukup dalam uterus. Hanya ada dua sumber kalsium untuk pembentukan cangkang telur yaitu dari ransum dan medula tulang, sebagian besar kalsium yang digunakan untuk membentuk cangkang telur langsung dicukupi dari ransum, sebagian lagi dari cadangan kalsium pada medula tulang (Amrullah, 2003).
+Kalsium karbonat ($CaCO\_3$) dideposisikan selama 17–20 jam di dalam uterus. Hanya 3% dari cangkang berupa bahan organik dan sisanya yaitu 97% berupa kalsit atau $CaCO\_3$ (Lavelin dkk., 2000). Pembentukan cangkang telur memerlukan pasokan ion-ion kalsium yang cukup dalam uterus. Hanya ada dua sumber kalsium untuk pembentukan cangkang telur yaitu dari ransum dan medula tulang, sebagian besar kalsium yang digunakan untuk membentuk cangkang telur langsung dicukupi dari ransum, sebagian lagi dari cadangan kalsium pada medula tulang (Amrullah, 2003).
+
